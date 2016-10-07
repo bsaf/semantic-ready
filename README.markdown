@@ -12,7 +12,7 @@ Installation
 
 ### Clone the repo
 
-    git clone...
+    git clone git@github.com:bsaf/semantic-ready.git
 
 ### Install the node dependencies (semantic)
 
