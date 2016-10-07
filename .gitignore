@@ -1,0 +1,10 @@
+node_modules/*
+semantic/src/definitions/*
+semantic/src/themes/*
+semantic/dist/components/*
+semantic/dist/themes/*
+
+# Don't ignore these
+!semantic/dist/themes/default/
+!semantic/dist/*.js
+!semantic/dist/*.css

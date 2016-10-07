@@ -1,0 +1,23 @@
+/***
+
+   These override variables in semantic/src/themes/default/globals/site.variables
+
+***/
+
+/*-------------------
+       Fonts
+--------------------*/
+
+@fontName          : 'Roboto';
+@importGoogleFonts : true;
+@googleFontSizes   : '400,700,400italic,700italic';
+
+/*-------------------
+      Base Sizes
+--------------------*/
+
+/* This is the single variable that controls them all */
+@emSize   : 16px;
+
+/* The size of page text  */
+@fontSize : 16px;
