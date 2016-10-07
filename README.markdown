@@ -1,7 +1,7 @@
 Semantic Ready
 ==============
 
-A ready-to-repo set up with Semantic UI.
+A ready-to-clone repo set up with Semantic UI.
 
 Installation
 ------------
