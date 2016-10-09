@@ -3,6 +3,8 @@ Semantic Ready
 
 A ready-to-clone repo set up with Semantic UI.
 
+If you need a super-simple include without all the Gulp stuff then see simple.html in this repo.
+
 Installation
 ------------
 
