@@ -10,7 +10,7 @@ Installation
 
 ### Install Gulp globally
 
-    npm -g gulp
+    npm install -g gulp
 
 ### Clone the repo
 
